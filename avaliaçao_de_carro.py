@@ -11,3 +11,5 @@ elif car1 > 50 and car1 <= 80:
 elif car1 > 80 and car1 <= 100:
     valFinal = car2 + (car2 * 20) / 100
     print(f"{valFinal}")
+else:
+    print("Valor inválido")
